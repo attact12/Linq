@@ -1,0 +1,161 @@
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\LINQ (MSIT 91 兩天)\Starter Labs\LinqLabs\LinqLabs\bin\Debug\LinqLabs.exe.config
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\LINQ (MSIT 91 兩天)\Starter Labs\LinqLabs\LinqLabs\bin\Debug\LinqLabs.exe
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\LINQ (MSIT 91 兩天)\Starter Labs\LinqLabs\LinqLabs\bin\Debug\LinqLabs.pdb
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\LINQ (MSIT 91 兩天)\Starter Labs\LinqLabs\LinqLabs\obj\Debug\LinqLabs.csprojResolveAssemblyReference.cache
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\LINQ (MSIT 91 兩天)\Starter Labs\LinqLabs\LinqLabs\obj\Debug\Lab_01_HelloLinq.FrmHelloLinq.resources
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\LINQ (MSIT 91 兩天)\Starter Labs\LinqLabs\LinqLabs\obj\Debug\Lab_02_CSharp_3._0.FrmLangForLINQ.resources
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\LINQ (MSIT 91 兩天)\Starter Labs\LinqLabs\LinqLabs\obj\Debug\Starter.FrmLINQ_To_XXX.resources
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\LINQ (MSIT 91 兩天)\Starter Labs\LinqLabs\LinqLabs\obj\Debug\Lab_03.FrmLINQ架構介紹_InsideLINQ.resources
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\LINQ (MSIT 91 兩天)\Starter Labs\LinqLabs\LinqLabs\obj\Debug\LinqLabs.Properties.Resources.resources
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\LINQ (MSIT 91 兩天)\Starter Labs\LinqLabs\LinqLabs\obj\Debug\LinqLabs.csproj.GenerateResource.Cache
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\LINQ (MSIT 91 兩天)\Starter Labs\LinqLabs\LinqLabs\obj\Debug\LinqLabs.exe
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\LINQ (MSIT 91 兩天)\Starter Labs\LinqLabs\LinqLabs\obj\Debug\LinqLabs.pdb
+D:\隨身碟\KingStone\MSIT VS2012\LINQ\LinqLabs\LinqLabs\bin\Debug\LinqLabs.exe.config
+D:\隨身碟\KingStone\MSIT VS2012\LINQ\LinqLabs\LinqLabs\obj\Debug\LinqLabs.exe
+D:\隨身碟\KingStone\MSIT VS2012\LINQ\LinqLabs\LinqLabs\obj\Debug\LinqLabs.pdb
+E:\MSIT VS2012\LINQ\LinqLabs\LinqLabs\bin\Debug\LinqLabs.exe.config
+E:\MSIT VS2012\LINQ\LinqLabs\LinqLabs\obj\Debug\LinqLabs.exe
+E:\MSIT VS2012\LINQ\LinqLabs\LinqLabs\obj\Debug\LinqLabs.pdb
+E:\MSIT VS2012\LINQ\LinqLabs\LinqLabs\obj\Debug\LinqLabs.csprojResolveAssemblyReference.cache
+E:\MSIT VS2012\LINQ\LinqLabs\LinqLabs\obj\Debug\Starter.FrmHelloLinq.resources
+E:\MSIT VS2012\LINQ\LinqLabs\LinqLabs\obj\Debug\Starter.FrmLangForLINQ.resources
+E:\MSIT VS2012\LINQ\LinqLabs\LinqLabs\obj\Debug\Starter.FrmLINQ_To_XXX.resources
+E:\MSIT VS2012\LINQ\LinqLabs\LinqLabs\obj\Debug\Starter.FrmLINQ架構介紹_InsideLINQ.resources
+E:\MSIT VS2012\LINQ\LinqLabs\LinqLabs\obj\Debug\Starter.FrmLinq_To_Entity.resources
+E:\MSIT VS2012\LINQ\LinqLabs\LinqLabs\obj\Debug\LinqLabs.Properties.Resources.resources
+E:\MSIT VS2012\LINQ\LinqLabs\LinqLabs\obj\Debug\LinqLabs.csproj.GenerateResource.Cache
+E:\MSIT VS2012\LINQ\LinqLabs\LinqLabs\bin\Debug\LinqLabs.exe
+E:\MSIT VS2012\LINQ\LinqLabs\LinqLabs\bin\Debug\LinqLabs.pdb
+D:\MSIT 上課\LINQ\LINQ 上課 (MSIT Old)\LinqLabs (StartUp)\LinqLabs\bin\Debug\LinqLabs.exe.config
+D:\MSIT 上課\LINQ\LINQ 上課 (MSIT Old)\LinqLabs (StartUp)\LinqLabs\bin\Debug\LinqLabs.exe
+D:\MSIT 上課\LINQ\LINQ 上課 (MSIT Old)\LinqLabs (StartUp)\LinqLabs\bin\Debug\LinqLabs.pdb
+D:\MSIT 上課\LINQ\LINQ 上課 (MSIT Old)\LinqLabs (StartUp)\LinqLabs\obj\Debug\LinqLabs.csprojAssemblyReference.cache
+D:\MSIT 上課\LINQ\LINQ 上課 (MSIT Old)\LinqLabs (StartUp)\LinqLabs\obj\Debug\Starter.FrmHelloLinq.resources
+D:\MSIT 上課\LINQ\LINQ 上課 (MSIT Old)\LinqLabs (StartUp)\LinqLabs\obj\Debug\Starter.FrmLangForLINQ.resources
+D:\MSIT 上課\LINQ\LINQ 上課 (MSIT Old)\LinqLabs (StartUp)\LinqLabs\obj\Debug\Starter.FrmLINQ_To_XXX.resources
+D:\MSIT 上課\LINQ\LINQ 上課 (MSIT Old)\LinqLabs (StartUp)\LinqLabs\obj\Debug\Starter.FrmLINQ架構介紹_InsideLINQ.resources
+D:\MSIT 上課\LINQ\LINQ 上課 (MSIT Old)\LinqLabs (StartUp)\LinqLabs\obj\Debug\Starter.FrmLinq_To_Entity.resources
+D:\MSIT 上課\LINQ\LINQ 上課 (MSIT Old)\LinqLabs (StartUp)\LinqLabs\obj\Debug\LinqLabs.Properties.Resources.resources
+D:\MSIT 上課\LINQ\LINQ 上課 (MSIT Old)\LinqLabs (StartUp)\LinqLabs\obj\Debug\LinqLabs.csproj.GenerateResource.cache
+D:\MSIT 上課\LINQ\LINQ 上課 (MSIT Old)\LinqLabs (StartUp)\LinqLabs\obj\Debug\LinqLabs.csproj.CoreCompileInputs.cache
+D:\MSIT 上課\LINQ\LINQ 上課 (MSIT Old)\LinqLabs (StartUp)\LinqLabs\obj\Debug\LinqLabs.exe
+D:\MSIT 上課\LINQ\LINQ 上課 (MSIT Old)\LinqLabs (StartUp)\LinqLabs\obj\Debug\LinqLabs.pdb
+C:\Fion Data\MSIT 上課\LINQ\LinqLabs (StartUp)\LinqLabs\bin\Debug\LinqLabs.exe.config
+C:\Fion Data\MSIT 上課\LINQ\LinqLabs (StartUp)\LinqLabs\bin\Debug\LinqLabs.exe
+C:\Fion Data\MSIT 上課\LINQ\LinqLabs (StartUp)\LinqLabs\bin\Debug\LinqLabs.pdb
+C:\Fion Data\MSIT 上課\LINQ\LinqLabs (StartUp)\LinqLabs\obj\Debug\LinqLabs.csprojAssemblyReference.cache
+C:\Fion Data\MSIT 上課\LINQ\LinqLabs (StartUp)\LinqLabs\obj\Debug\Starter.FrmHelloLinq.resources
+C:\Fion Data\MSIT 上課\LINQ\LinqLabs (StartUp)\LinqLabs\obj\Debug\Starter.FrmLangForLINQ.resources
+C:\Fion Data\MSIT 上課\LINQ\LinqLabs (StartUp)\LinqLabs\obj\Debug\Starter.FrmLINQ_To_XXX.resources
+C:\Fion Data\MSIT 上課\LINQ\LinqLabs (StartUp)\LinqLabs\obj\Debug\Starter.FrmLINQ架構介紹_InsideLINQ.resources
+C:\Fion Data\MSIT 上課\LINQ\LinqLabs (StartUp)\LinqLabs\obj\Debug\Starter.FrmLinq_To_Entity.resources
+C:\Fion Data\MSIT 上課\LINQ\LinqLabs (StartUp)\LinqLabs\obj\Debug\LinqLabs.Properties.Resources.resources
+C:\Fion Data\MSIT 上課\LINQ\LinqLabs (StartUp)\LinqLabs\obj\Debug\LinqLabs.csproj.GenerateResource.cache
+C:\Fion Data\MSIT 上課\LINQ\LinqLabs (StartUp)\LinqLabs\obj\Debug\LinqLabs.csproj.CoreCompileInputs.cache
+C:\Fion Data\MSIT 上課\LINQ\LinqLabs (StartUp)\LinqLabs\obj\Debug\LinqLabs.exe
+C:\Fion Data\MSIT 上課\LINQ\LinqLabs (StartUp)\LinqLabs\obj\Debug\LinqLabs.pdb
+C:\Fion Data\MSIT 上課\LINQ\LinqLabs (StartUp)\now version\LinqLabs\bin\Debug\LinqLabs.exe.config
+C:\Fion Data\MSIT 上課\LINQ\LinqLabs (StartUp)\now version\LinqLabs\bin\Debug\LinqLabs.exe
+C:\Fion Data\MSIT 上課\LINQ\LinqLabs (StartUp)\now version\LinqLabs\bin\Debug\LinqLabs.pdb
+C:\Fion Data\MSIT 上課\LINQ\LinqLabs (StartUp)\now version\LinqLabs\obj\Debug\LinqLabs.csprojAssemblyReference.cache
+C:\Fion Data\MSIT 上課\LINQ\LinqLabs (StartUp)\now version\LinqLabs\obj\Debug\Starter.FrmHelloLinq.resources
+C:\Fion Data\MSIT 上課\LINQ\LinqLabs (StartUp)\now version\LinqLabs\obj\Debug\Starter.FrmLangForLINQ.resources
+C:\Fion Data\MSIT 上課\LINQ\LinqLabs (StartUp)\now version\LinqLabs\obj\Debug\Starter.FrmLINQ_To_XXX.resources
+C:\Fion Data\MSIT 上課\LINQ\LinqLabs (StartUp)\now version\LinqLabs\obj\Debug\Starter.FrmLINQ架構介紹_InsideLINQ.resources
+C:\Fion Data\MSIT 上課\LINQ\LinqLabs (StartUp)\now version\LinqLabs\obj\Debug\Starter.FrmLinq_To_Entity.resources
+C:\Fion Data\MSIT 上課\LINQ\LinqLabs (StartUp)\now version\LinqLabs\obj\Debug\LinqLabs.Properties.Resources.resources
+C:\Fion Data\MSIT 上課\LINQ\LinqLabs (StartUp)\now version\LinqLabs\obj\Debug\LinqLabs.csproj.GenerateResource.cache
+C:\Fion Data\MSIT 上課\LINQ\LinqLabs (StartUp)\now version\LinqLabs\obj\Debug\LinqLabs.csproj.CoreCompileInputs.cache
+C:\Fion Data\MSIT 上課\LINQ\LinqLabs (StartUp)\now version\LinqLabs\obj\Debug\LinqLabs.exe
+C:\Fion Data\MSIT 上課\LINQ\LinqLabs (StartUp)\now version\LinqLabs\obj\Debug\LinqLabs.pdb
+C:\Users\Student\Downloads\LinqLabs (StartUp)\LinqLabs\bin\Debug\LinqLabs.exe.config
+C:\Users\Student\Downloads\LinqLabs (StartUp)\LinqLabs\bin\Debug\LinqLabs.exe
+C:\Users\Student\Downloads\LinqLabs (StartUp)\LinqLabs\bin\Debug\LinqLabs.pdb
+C:\Users\Student\Downloads\LinqLabs (StartUp)\LinqLabs\obj\Debug\Starter.FrmHelloLinq.resources
+C:\Users\Student\Downloads\LinqLabs (StartUp)\LinqLabs\obj\Debug\Starter.FrmLangForLINQ.resources
+C:\Users\Student\Downloads\LinqLabs (StartUp)\LinqLabs\obj\Debug\Starter.FrmLINQ_To_XXX.resources
+C:\Users\Student\Downloads\LinqLabs (StartUp)\LinqLabs\obj\Debug\Starter.FrmLINQ架構介紹_InsideLINQ.resources
+C:\Users\Student\Downloads\LinqLabs (StartUp)\LinqLabs\obj\Debug\Starter.FrmLinq_To_Entity.resources
+C:\Users\Student\Downloads\LinqLabs (StartUp)\LinqLabs\obj\Debug\LinqLabs.Properties.Resources.resources
+C:\Users\Student\Downloads\LinqLabs (StartUp)\LinqLabs\obj\Debug\LinqLabs.csproj.GenerateResource.cache
+C:\Users\Student\Downloads\LinqLabs (StartUp)\LinqLabs\obj\Debug\LinqLabs.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\LinqLabs (StartUp)\LinqLabs\obj\Debug\LinqLabs.exe
+C:\Users\Student\Downloads\LinqLabs (StartUp)\LinqLabs\obj\Debug\LinqLabs.pdb
+E:\ADO LINQ (疫情上課)\LINQ\LinqLabs (StartUp)\LinqLabs\bin\Debug\LinqLabs.exe.config
+E:\ADO LINQ (疫情上課)\LINQ\LinqLabs (StartUp)\LinqLabs\bin\Debug\LinqLabs.exe
+E:\ADO LINQ (疫情上課)\LINQ\LinqLabs (StartUp)\LinqLabs\bin\Debug\LinqLabs.pdb
+E:\ADO LINQ (疫情上課)\LINQ\LinqLabs (StartUp)\LinqLabs\obj\Debug\LinqLabs.csproj.AssemblyReference.cache
+E:\ADO LINQ (疫情上課)\LINQ\LinqLabs (StartUp)\LinqLabs\obj\Debug\Starter.FrmHelloLinq.resources
+E:\ADO LINQ (疫情上課)\LINQ\LinqLabs (StartUp)\LinqLabs\obj\Debug\Starter.FrmLangForLINQ.resources
+E:\ADO LINQ (疫情上課)\LINQ\LinqLabs (StartUp)\LinqLabs\obj\Debug\Starter.FrmLINQ_To_XXX.resources
+E:\ADO LINQ (疫情上課)\LINQ\LinqLabs (StartUp)\LinqLabs\obj\Debug\Starter.FrmLINQ架構介紹_InsideLINQ.resources
+E:\ADO LINQ (疫情上課)\LINQ\LinqLabs (StartUp)\LinqLabs\obj\Debug\Starter.FrmLinq_To_Entity.resources
+E:\ADO LINQ (疫情上課)\LINQ\LinqLabs (StartUp)\LinqLabs\obj\Debug\LinqLabs.Properties.Resources.resources
+E:\ADO LINQ (疫情上課)\LINQ\LinqLabs (StartUp)\LinqLabs\obj\Debug\LinqLabs.csproj.GenerateResource.cache
+E:\ADO LINQ (疫情上課)\LINQ\LinqLabs (StartUp)\LinqLabs\obj\Debug\LinqLabs.csproj.CoreCompileInputs.cache
+E:\ADO LINQ (疫情上課)\LINQ\LinqLabs (StartUp)\LinqLabs\obj\Debug\LinqLabs.exe
+E:\ADO LINQ (疫情上課)\LINQ\LinqLabs (StartUp)\LinqLabs\obj\Debug\LinqLabs.pdb
+D:\Fion Data\MSIT 上課\ADO LINQ (疫情上課)\LINQ\LinqLabs (StartUp)\LinqLabs\bin\Debug\LinqLabs.exe.config
+D:\Fion Data\MSIT 上課\ADO LINQ (疫情上課)\LINQ\LinqLabs (StartUp)\LinqLabs\bin\Debug\LinqLabs.exe
+D:\Fion Data\MSIT 上課\ADO LINQ (疫情上課)\LINQ\LinqLabs (StartUp)\LinqLabs\bin\Debug\LinqLabs.pdb
+D:\Fion Data\MSIT 上課\ADO LINQ (疫情上課)\LINQ\LinqLabs (StartUp)\LinqLabs\obj\Debug\LinqLabs.csproj.AssemblyReference.cache
+D:\Fion Data\MSIT 上課\ADO LINQ (疫情上課)\LINQ\LinqLabs (StartUp)\LinqLabs\obj\Debug\Starter.FrmHelloLinq.resources
+D:\Fion Data\MSIT 上課\ADO LINQ (疫情上課)\LINQ\LinqLabs (StartUp)\LinqLabs\obj\Debug\Starter.FrmLangForLINQ.resources
+D:\Fion Data\MSIT 上課\ADO LINQ (疫情上課)\LINQ\LinqLabs (StartUp)\LinqLabs\obj\Debug\Starter.FrmLINQ_To_XXX.resources
+D:\Fion Data\MSIT 上課\ADO LINQ (疫情上課)\LINQ\LinqLabs (StartUp)\LinqLabs\obj\Debug\Starter.FrmLINQ架構介紹_InsideLINQ.resources
+D:\Fion Data\MSIT 上課\ADO LINQ (疫情上課)\LINQ\LinqLabs (StartUp)\LinqLabs\obj\Debug\Starter.FrmLinq_To_Entity.resources
+D:\Fion Data\MSIT 上課\ADO LINQ (疫情上課)\LINQ\LinqLabs (StartUp)\LinqLabs\obj\Debug\LinqLabs.Properties.Resources.resources
+D:\Fion Data\MSIT 上課\ADO LINQ (疫情上課)\LINQ\LinqLabs (StartUp)\LinqLabs\obj\Debug\LinqLabs.csproj.GenerateResource.cache
+D:\Fion Data\MSIT 上課\ADO LINQ (疫情上課)\LINQ\LinqLabs (StartUp)\LinqLabs\obj\Debug\LinqLabs.csproj.CoreCompileInputs.cache
+D:\Fion Data\MSIT 上課\ADO LINQ (疫情上課)\LINQ\LinqLabs (StartUp)\LinqLabs\obj\Debug\LinqLabs.exe
+D:\Fion Data\MSIT 上課\ADO LINQ (疫情上課)\LINQ\LinqLabs (StartUp)\LinqLabs\obj\Debug\LinqLabs.pdb
+C:\shared\LINQ\LinqLabs (Solution)\LinqLabs\bin\Debug\LinqLabs.exe.config
+C:\shared\LINQ\LinqLabs (Solution)\LinqLabs\bin\Debug\LinqLabs.exe
+C:\shared\LINQ\LinqLabs (Solution)\LinqLabs\bin\Debug\LinqLabs.pdb
+C:\shared\LINQ\LinqLabs (Solution)\LinqLabs\obj\Debug\LinqLabs.csprojAssemblyReference.cache
+C:\shared\LINQ\LinqLabs (Solution)\LinqLabs\obj\Debug\Starter.FrmHelloLinq.resources
+C:\shared\LINQ\LinqLabs (Solution)\LinqLabs\obj\Debug\Starter.FrmLangForLINQ.resources
+C:\shared\LINQ\LinqLabs (Solution)\LinqLabs\obj\Debug\Starter.FrmLINQ_To_XXX.resources
+C:\shared\LINQ\LinqLabs (Solution)\LinqLabs\obj\Debug\Starter.FrmLINQ架構介紹_InsideLINQ.resources
+C:\shared\LINQ\LinqLabs (Solution)\LinqLabs\obj\Debug\Starter.FrmLinq_To_Entity.resources
+C:\shared\LINQ\LinqLabs (Solution)\LinqLabs\obj\Debug\LinqLabs.Properties.Resources.resources
+C:\shared\LINQ\LinqLabs (Solution)\LinqLabs\obj\Debug\LinqLabs.csproj.GenerateResource.cache
+C:\shared\LINQ\LinqLabs (Solution)\LinqLabs\obj\Debug\LinqLabs.csproj.CoreCompileInputs.cache
+C:\shared\LINQ\LinqLabs (Solution)\LinqLabs\obj\Debug\LinqLabs.exe
+C:\shared\LINQ\LinqLabs (Solution)\LinqLabs\obj\Debug\LinqLabs.pdb
+C:\shared\LINQ\LinqLabs (Solution)\LinqLabs\obj\Debug\LinqLabs.Form1.resources
+C:\shared\LINQ\LinqLabs (Solution)\LinqLabs\obj\Debug\MyHomeWork.Frm作業_1.resources
+C:\shared\LINQ\LinqLabs (Solution)\LinqLabs\obj\Debug\LinqLabs.作業.Frm作業_2.resources
+C:\shared\LINQ\LinqLabs (Solution)\LinqLabs\obj\Debug\LinqLabs.作業.Frm作業_3.resources
+C:\shared\LINQ\LinqLabs (Solution)\LinqLabs\obj\Debug\LinqLabs.作業.Frm作業_4.resources
+C:\shared\LINQ\LinqLabs (Solution)\LinqLabs\bin\Debug\EntityFramework.dll
+C:\shared\LINQ\LinqLabs (Solution)\LinqLabs\bin\Debug\EntityFramework.SqlServer.dll
+C:\shared\LINQ\LinqLabs (Solution)\LinqLabs\bin\Debug\EntityFramework.xml
+C:\shared\LINQ\LinqLabs (Solution)\LinqLabs\bin\Debug\EntityFramework.SqlServer.xml
+C:\shared\LINQ\LinqLabs (Solution)\LinqLabs\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\shared\LINQ\LinqLabs (Solution)\LinqLabs\obj\Debug\LinqLabs.csproj.CopyComplete
+C:\Users\Student\Desktop\LinqLabs (Solution)\LinqLabs\bin\Debug\LinqLabs.exe.config
+C:\Users\Student\Desktop\LinqLabs (Solution)\LinqLabs\bin\Debug\LinqLabs.exe
+C:\Users\Student\Desktop\LinqLabs (Solution)\LinqLabs\bin\Debug\LinqLabs.pdb
+C:\Users\Student\Desktop\LinqLabs (Solution)\LinqLabs\bin\Debug\EntityFramework.dll
+C:\Users\Student\Desktop\LinqLabs (Solution)\LinqLabs\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student\Desktop\LinqLabs (Solution)\LinqLabs\bin\Debug\EntityFramework.xml
+C:\Users\Student\Desktop\LinqLabs (Solution)\LinqLabs\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student\Desktop\LinqLabs (Solution)\LinqLabs\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\Student\Desktop\LinqLabs (Solution)\LinqLabs\obj\Debug\LinqLabs.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\LinqLabs (Solution)\LinqLabs\obj\Debug\Starter.FrmHelloLinq.resources
+C:\Users\Student\Desktop\LinqLabs (Solution)\LinqLabs\obj\Debug\Starter.FrmLangForLINQ.resources
+C:\Users\Student\Desktop\LinqLabs (Solution)\LinqLabs\obj\Debug\Starter.FrmLINQ_To_XXX.resources
+C:\Users\Student\Desktop\LinqLabs (Solution)\LinqLabs\obj\Debug\Starter.FrmLINQ架構介紹_InsideLINQ.resources
+C:\Users\Student\Desktop\LinqLabs (Solution)\LinqLabs\obj\Debug\Starter.FrmLinq_To_Entity.resources
+C:\Users\Student\Desktop\LinqLabs (Solution)\LinqLabs\obj\Debug\LinqLabs.Form1.resources
+C:\Users\Student\Desktop\LinqLabs (Solution)\LinqLabs\obj\Debug\LinqLabs.Properties.Resources.resources
+C:\Users\Student\Desktop\LinqLabs (Solution)\LinqLabs\obj\Debug\MyHomeWork.Frm作業_1.resources
+C:\Users\Student\Desktop\LinqLabs (Solution)\LinqLabs\obj\Debug\LinqLabs.作業.Frm作業_2.resources
+C:\Users\Student\Desktop\LinqLabs (Solution)\LinqLabs\obj\Debug\LinqLabs.作業.Frm作業_3.resources
+C:\Users\Student\Desktop\LinqLabs (Solution)\LinqLabs\obj\Debug\LinqLabs.作業.Frm作業_4.resources
+C:\Users\Student\Desktop\LinqLabs (Solution)\LinqLabs\obj\Debug\LinqLabs.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\LinqLabs (Solution)\LinqLabs\obj\Debug\LinqLabs.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\LinqLabs (Solution)\LinqLabs\obj\Debug\LinqLabs.csproj.CopyComplete
+C:\Users\Student\Desktop\LinqLabs (Solution)\LinqLabs\obj\Debug\LinqLabs.exe
+C:\Users\Student\Desktop\LinqLabs (Solution)\LinqLabs\obj\Debug\LinqLabs.pdb
